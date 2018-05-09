@@ -6,7 +6,7 @@
 		public $nim;
 		public $ipk;
 
-		public function munculkannama()
+		public static function munculkannama()
 		{
 			echo "Hallo saya sisfo";
 		}
