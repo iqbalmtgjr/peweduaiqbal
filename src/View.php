@@ -4,9 +4,7 @@
 	*/
 	namespace src;
 
-	class View
-	{
-		
+	class View{
 		public function render()
 		{
 			echo "Ini View dari src";
