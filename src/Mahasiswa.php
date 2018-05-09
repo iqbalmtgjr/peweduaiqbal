@@ -1,7 +1,5 @@
 <?php 
-	/**
-	* 
-	*/
+
 	namespace src;
 
 	class Mahasiswa{	

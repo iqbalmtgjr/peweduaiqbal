@@ -8,6 +8,8 @@ spl_autoload_register(function($class) {
  	$v = new \src\View();
  	$v->render();
 
+ 	echo "<br>";
+
  	$z = new \src\Mahasiswa();
  	$z->test();
  ?>
